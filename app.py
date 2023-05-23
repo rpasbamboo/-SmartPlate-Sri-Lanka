@@ -80,7 +80,7 @@ def predict():
 
     # Create a response dictionary with the result and calculated values
     response = {
-        'placement': str(result),
+        'Serving Size': str(result),
         'Recommended Calorie Per Day': rec_cal,
         'Recommended Total Carbohydrate(g) Per Day': rec_tot_carb,
         'Recommended Carbohydrate(g) for the Selected Meal': rec_carb
