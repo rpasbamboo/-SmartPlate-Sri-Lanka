@@ -1,1 +1,2 @@
-# -SmartPlate-Sri-Lanka
+# SmartPlate-Sri-Lanka
+SmartPlate Sri Lanka is a nutrition recommendation system developed for Sri Lankan children and adolescents. The aim of the project is to provide personalized nutrition suggestions based on age, body measurements, and activity levels. The system ensures that individuals can make informed decisions about their diet and fuel their bodies with the right kind of food in the right amounts.
