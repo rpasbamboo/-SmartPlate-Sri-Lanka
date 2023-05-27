@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CF0330"
+    android:nestedScrollingEnabled="true">
+
+    <TextView
+        android:id="@+id/welcome_note"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="false"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:background="#006200ED"
+        android:fontFamily="sans-serif"
+        android:foregroundTint="#00FFFFFF"
+        android:text="Hello There!"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#FFFFFF"
+        android:textColorLink="#05CC1414"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="wrap_content"
+        android:layout_height="64dp"
+        android:layout_below="@id/welcome_note"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="421dp"
+        android:background="#3CE91E63"
+        android:backgroundTint="#E91E63"
+        android:backgroundTintMode="add"
+        android:foregroundTint="#E91E63"
+        android:foregroundTintMode="screen"
+        android:onClick="startButtonClicked"
+        android:shadowColor="#E91E63"
+        android:text="Let's Eat Right!"
+        app:iconTint="#E91E63"
+        app:iconTintMode="add"
+        app:rippleColor="#E91E63"
+        app:strokeColor="#E91E63" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/cute_character__0_removebg_preview" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/cute_character__0_removebg_preview" />
+
+</RelativeLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_options_array">
+        <item label="Breakfast" value="Unknown" />
+        <item label="Kiribath -1 slice" value="1" />
+        <item label="Pol Roti -1 piece" value="2" />
+        <item label="Pittu -1 piece" value="3" />
+        <item label="Mung (Green gram) -1 cup" value="4" />
+        <item label="Kadala (Chickpea) -1 cup" value="5" />
+        <item label="Roasted bread with fish -1 piece" value="6" />
+        <item label="Uppuma -1 cup" value="7" />
+        <item label="Morning Snack" value="Unknown" />
+        <item label="Low fat milk -1 cup" value="8" />
+        <item label="Kola Kanda -1 glass" value="9" />
+        <item label="Yogurt -1 cup" value="10" />
+        <item label="Avocado -1/2 medium" value="11" />
+        <item label="Fruit juice -1 glass" value="12" />
+        <item label="Dark chocolate -1 piece" value="13" />
+        <item label="Banana -1 medium" value="14" />
+        <item label="Lunch" value="Unknown" />
+        <item label="Red rice, chicken curry, beetroot curry, and gotukola sambol -1 plate" value="15" />
+        <item label="Red rice, fish curry, green bean curry, and tomato and onion sambol -1 plate" value="16" />
+        <item label="Red rice, jackfruit curry, eggplant moju, and cabbage mallung -1 plate" value="17" />
+        <item label="Red rice, mung bean curry, pumpkin curry, and cucumber salad -1 plate" value="18" />
+        <item label="Chicken curry, dhal curry, and mixed vegetable curry with rice -1 plate" value="19" />
+        <item label="Fish curry, beetroot curry, and okra curry with rice -1 plate" value="20" />
+        <item label="Potato curry, jackfruit curry, and green bean curry with rice -1 plate" value="21" />
+        <item label="Afternoon Snack" value="Unknown" />
+        <item label="Orange -1 medium" value="22" />
+        <item label="Guava -1 medium" value="23" />
+        <item label="Apple -1 medium" value="24" />
+        <item label="Peanuts -25 g" value="25" />
+        <item label="Veralu -4-5 fruits" value="26" />
+        <item label="Watermelon -1 cup" value="27" />
+        <item label="Ambarella -1 medium" value="28" />
+        <item label="Dinner" value="Unknown" />
+        <item label="String hoppers with fish -2 hoppers" value="29" />
+        <item label="Hoppers with lunu miris -1 hopper" value="30" />
+        <item label="Dosa with sambar -1 dosa" value="31" />
+        <item label="Bread with dhal curry -1 slice" value="32" />
+        <item label="Kurakkan thalapa with chicken curry -1 piece" value="33" />
+        <item label="Egg noodles -1 cup" value="34" />
+        <item label="Chapathi with gravy -1 piece" value="35" />
+    </string-array>
+</resources>
